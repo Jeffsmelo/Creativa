@@ -18,5 +18,5 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<p class="titulo">🎉 Bem-vindo ao Menu Interativo! 🎉</p>', unsafe_allow_html=True)
+st.markdown('<p class="titulo">🎉 Jefferson! 🎉</p>', unsafe_allow_html=True)
 st.info("Escolha uma das opções no menu à esquerda 👈")
